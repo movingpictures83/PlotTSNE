@@ -1,0 +1,2 @@
+Prefix plugins/PlotTSNE/example
+Plugin PlotTSNE inputfile parameters.txt outputfile tsne.png

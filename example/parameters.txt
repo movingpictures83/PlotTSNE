@@ -1,0 +1,5 @@
+datapath	metabolon_scaled.csv
+sampleidcol	CLIENT IDENTIFIER
+title	t-SNE visualization of samples based on metabolomics
+metadatapath	metadata.txt
+labelcol	COCAINE USE
